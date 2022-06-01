@@ -1,0 +1,47 @@
+
+body_section{
+      font-family: poppins;
+}
+.tribute_page{
+        text-align: center;
+        background-color: #eee;
+        padding: 10px 10px 30px 10px;
+}
+.heading{
+        font-size: 50px;
+        font-style: poppins;
+        margin-bottom: 20px;
+}
+.heading_text{
+        font-size: 20px;
+}
+
+.img_section{
+        background-color: white;
+        margin: 0;
+}
+.img_src{
+        margin-top: 10px;
+        height: 200px;
+        width:  200px;
+}
+.figcaption{
+        font-style: italic;
+        font-size: medium;
+}
+.ul{
+padding: 30px;
+}
+.li{
+text-align: left;
+}
+.h3{
+ text-align: justify;
+ margin-left:10px;
+ margin-top:1px ;
+}
+.h2{
+ text-align: left;
+ margin-top: 40px;
+ 
+}
